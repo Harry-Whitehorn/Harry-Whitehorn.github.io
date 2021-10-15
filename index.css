@@ -1,14 +1,16 @@
 body {
     background-color: rgb(50, 50, 50);
-    color: white
+    color: white;
+    max-width: 960px;
+    margin: auto;
 }
 
 a {
-    color: rgb(210, 210, 255)
+    color: rgb(210, 210, 255);
 }
 
 img {
-    margin: 15px 15px 15px 15px
+    margin: 15px 15px 15px 15px;
 }
 
 hr {
@@ -16,5 +18,5 @@ hr {
 }
 
 .infotd {
-    vertical-align: top
+    vertical-align: top;
 }
